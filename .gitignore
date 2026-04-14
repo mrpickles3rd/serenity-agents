@@ -137,3 +137,20 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+.TemporaryItems
+.AppleDB
+.AppleDesktop
+.com.apple.timemachine.donotpresent
+Network Trash Folder
+Temporary Items
+.apdisk
